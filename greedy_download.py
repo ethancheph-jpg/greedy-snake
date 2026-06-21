@@ -6,5 +6,5 @@ URL = 'https://drive.google.com/uc?export=download&id=1cibf-wvJ5fLfBfJzHg5HbtLAW
 
 st.link_button(
     label='download',
-    url=Url
+    url=URL
     )
